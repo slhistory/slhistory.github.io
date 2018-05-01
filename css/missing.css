@@ -1,0 +1,51 @@
+body{
+	
+	margin: 20px;
+	padding: 40px;
+	color: #212529;
+	
+
+}
+
+h1  {
+	text-align: center;
+	color: #000;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, Sans-sefif;
+	font-weight: 800; 
+	font-style: normal;
+
+
+   }
+h2, h3
+{
+	text-align: center;
+	color: #000;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, Sans-sefif;
+	font-weight: 800; 
+	font-style: normal;
+
+
+   }
+
+
+p {
+	text-align: left;
+	color: #000;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, Sans-sefif;
+	font-weight: normal;
+}
+
+ul {
+	 text-align: center;
+}
+li {
+
+	display: inline-block; 
+	text-align: center;
+	margin: 40px;
+	padding: 80px;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 30 pt;
+
+}
